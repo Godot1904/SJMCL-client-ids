@@ -3,3 +3,4 @@
 ("skin.mualliance.ltd", "27"),
 
 # 请在下方更新
+("user.suesmc.ltd", "4"),
